@@ -73,7 +73,7 @@
     "yorkie": "2.0.0"
   },
   "dependencies": {
-    "@koa/router": "10.0.0",
+    "@koa/router": "10.1.1",
     "@postlight/mercury-parser": "2.2.0",
     "@sentry/node": "6.7.2",
     "aes-js": "3.1.2",
